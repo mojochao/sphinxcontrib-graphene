@@ -36,6 +36,6 @@ Links
 * Source: https://github.com/mojochao/sphinxcontrib-graphene
 * Bugs: https://github.com/mojochao/sphinxcontrib-graphene/issues
 
-.. _Sphinx: https://sphinx.pocoo.org/
-.. _GraphQL: https://graphql.org
-.. _Graphene-Python: https://graphene-python.org/
+.. _Sphinx: http://www.sphinx-doc.org/en/master/
+.. _GraphQL: http://graphql.org
+.. _Graphene-Python: http://graphene-python.org/
