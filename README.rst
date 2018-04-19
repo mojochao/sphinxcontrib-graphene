@@ -19,7 +19,7 @@ Add ``sphinxcontrib-graphene`` to ``extensions`` list attribute in  your Sphinx
 
    extensions = [
       ...
-      'sphinxcontrib.graphene,
+      'sphinxcontrib.graphene',
    ]
 
 and use the ``graphene`` directive to render GraphQL documentation for a
